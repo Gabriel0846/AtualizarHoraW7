@@ -1,3 +1,5 @@
+
+Sleep, 15000
 ; Abre a janela de Data e Hora
 Run, timedate.cpl
 WinWait, Data e Hora
